@@ -17,6 +17,7 @@ app.post('/post',(req,res)=>{
 app.post('/merge2',(req,res)=>{});
 
 app.post('/merge3',(req,res)=>{});
+app.post('/merge4',(req,res)=>{});
 
 app.post('/merge',(req,res)=>{
     res.send({data:'POST'})
