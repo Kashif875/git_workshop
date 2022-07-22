@@ -1,0 +1,26 @@
+{
+  "name": "git",
+  "version": "1.0.0",
+  "description": "git",
+  "main": "index.js",
+  "scripts": {
+    "test": "git"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kashif875/git_check.git"
+  },
+  "keywords": [
+    "git"
+  ],
+  "author": "kashif",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kashif875/git_check/issues"
+  },
+  "homepage": "https://github.com/Kashif875/git_check#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
